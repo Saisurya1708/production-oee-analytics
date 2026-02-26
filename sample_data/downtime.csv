@@ -1,0 +1,4 @@
+timestamp,downtime_reason,duration_minutes
+2026-02-20 08:15,Planned Maintenance,5
+2026-02-20 09:30,Unplanned Stop,10
+2026-02-20 11:45,Changeover,8
